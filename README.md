@@ -2,11 +2,9 @@
 
 ## An application that captures the user's weight and height to display their BMI.
 
-> Project built during classes on the Explorer trail at Rocketseat educational institution.
+> The project aimed to use DOM and ES Modules (EcmaScript 6 - ES6).
 > 
-> The classes aimed to use DOM and ES Modules (EcmaScript 6 - ES6).
-> 
-> Introducing and reinforcing knowledge about HTML, CSS, JavaScript, DOM, Node, events, code refactoring and JS modules.
+> Reinforcing knowledge about HTML, CSS, JavaScript, DOM, Node, events, code refactoring and JS modules.
 
 ![preview_1](./.github/preview_1.png)
 ![preview_2](./.github/preview_2.png)
